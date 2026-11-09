@@ -1,0 +1,19 @@
+{
+  "business": "Davidson's Nursery",
+  "location": "Oklahoma City, OK",
+  "category": "plant nursery",
+  "slug": "davidsons-nursery-sample",
+  "planned_url": "https://michaelprabhu.github.io/davidsons-nursery-sample/",
+  "sample_only": true,
+  "official_site": false,
+  "affiliation_claimed": false,
+  "noindex": true,
+  "photo_id": "38552003",
+  "photographer": "Rajeeb roy",
+  "photo_source": "https://www.pexels.com/photo/vast-greenhouse-with-rows-of-cultivated-plants-38552003/",
+  "photo_license": "https://www.pexels.com/license/",
+  "contact_or_booking_enabled": false,
+  "email_or_phone_included": false,
+  "visual_review_status": "passed",
+  "visual_review_notes": "Full-size visual check passed; no third-party logo, business signage, license plate, or readable business-identifying mark found. Stock photo is illustrative only, not a photo of this business, its staff, or its property."
+}
